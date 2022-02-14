@@ -1,4 +1,4 @@
-#SCSS File System
+# SCSS File System
 
 <p> This project has five folders. All folders are contained in the scss folder.The main..scss folder contains four folders that have stylesheets that outline parts of the site. The utilies folder includes these files : <strong>_functions.scss</strong> <strong>_variables.scss</strong> <strong>_mixins.scss,</strong>
  <br>
